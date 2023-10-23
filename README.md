@@ -44,7 +44,7 @@ Documente adequadamente a arquitetura, os processos de configuração, manutenç
 
 Obs: o gráfico mostra que foram coletadas aproximadamente 82 leituras num período de 15 minutos.
 
-##Sensores Utilizados 
+## Sensores Utilizados
 
 LDR - O sensor LDR (Light Dependent Resistor) é um dispositivo que muda sua resistência elétrica com base na intensidade da luz incidente. Quanto mais luz incide sobre o LDR, menor é sua resistência, e vice-versa. 
 
