@@ -44,7 +44,38 @@ Documente adequadamente a arquitetura, os processos de configuração, manutenç
 
 Obs: o gráfico mostra que foram coletadas aproximadamente 82 leituras num período de 15 minutos.
 
+##Sensores Utilizados 
 
+LDR - O sensor LDR (Light Dependent Resistor) é um dispositivo que muda sua resistência elétrica com base na intensidade da luz incidente. Quanto mais luz incide sobre o LDR, menor é sua resistência, e vice-versa. 
+
+
+DHT11 - O sensor DHT11 é um sensor de umidade e temperatura digital que permite medir a umidade relativa e a temperatura do ambiente. Aqui estão alguns pontos-chave sobre o sensor DHT11:
+
+1 - Medição de umidade:
+Mede a umidade do ambiente localizado
+2 - Medição de temperatura:
+Mede a temperatura do ambiente localizado
+3 - Comunicação digital:
+Envia dados de forma digital
+4 - Precisão limitada:
+Por ser um sensor de baixo custo, a precisão das medidas não são exatas.
+5 - Intervalo de medição:
+20% a 80% de umidade e de 0 a 50 graus.
+
+
+
+Componentes do protótipo:
+
+- ESP-32
+- Buzzer
+- Fios para ligação
+- LCD 
+- LDR
+- DHT11
+
+
+
+A fonte de energia que moverá nosso projeto é um cabo USB que pode ser diretamente ligado na tomada, ou em alguma entrada de PC ou Notebook.
 
 ## Autores
 
